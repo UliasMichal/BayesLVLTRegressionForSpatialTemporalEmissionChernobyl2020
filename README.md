@@ -2,6 +2,11 @@
 
 Bayesovský odhad časoprostorové emise cesia-137 při požárech v okolí Černobylu -- Michal Uliáš
 
+Tento software vznikl za podpory Fakulty informačních technologií ČVUT v Praze, [fit.cvut.cz](https://fit.cvut.cz/).
+
+![Logo Fakulty informačních technologií ČVUT v Praze](https://github.com/UliasMichal/BayesLVLTRegressionForSpatialTemporalEmissionChernobyl2020/blob/main/logo-fit-cs-modra.jpg).
+
+
 ## Adresáře
 
 Repozitář je rozdělen na jednotlivé adresáře:
